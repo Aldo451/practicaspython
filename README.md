@@ -7,3 +7,12 @@ Reflexiones:
 *Phyton es muy versátil al ofrecer muchas formas de realizar una misma tarea de diversas formas y con diferentes métodos.
 *Los contenidos de los módulos está bastante completo, sin embargo me gustaría que las sesiones con la profesora y el material abordaran los mismos temas y la sesión sirviera mas para reafirmarlos, ej. en el módulo 1 no se aborda el ciclo while el cual si lo vimos con la profesora.
 *Las librerías de Python son extensas por lo que es bueno que nos acostumbremos a saber dónde investigar en la web ya que un curso no podría abarcar tanta información.
+
+
+Modulo 2: 
+
+La forma en que abordé la primera tarea fué lo más simple posible, debido a que sólo había 3 casos: que la caden ingresada tuviera la longitud deseada, que tuviera menos o que tuviera mas, por lo que en el ciclo while sólo necesité abordar esos 3 casos con if, elif y else, por lo que de entradas sólo se necesitaba saber la longitud de la entrada para hacer el ciclo.
+Para la segunda tarea fué un poco engañoso debido a que se podía obtener el mismo resultado con menos líneas de código sólo pero no se estaría usando alguna estructura como un diccionario por lo que se utilizaron 4 líneas mas de código pero abordando todo lo que se había visto en las sesiones, por último se hizo una validación de cada una de las entradas ("x" y "y")
+
+Reflexiones:
+Los códigos que se creen en Python se necesitan revisar en caso de un futuro escalamiento del código con bases mas grandes debido a que dependiendo de los métodos que se usen podrían impactar en el rendimiento al momento de correr el código.
