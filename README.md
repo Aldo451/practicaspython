@@ -16,3 +16,11 @@ Para la segunda tarea fué un poco engañoso debido a que se podía obtener el m
 
 Reflexiones:
 Los códigos que se creen en Python se necesitan revisar en caso de un futuro escalamiento del código con bases mas grandes debido a que dependiendo de los métodos que se usen podrían impactar en el rendimiento al momento de correr el código.
+
+
+Modulo 3: 
+
+En éste módulo fuí abordando el problema desde distintos ángulos, primero había introducido la probabilidad de caer de un lado u otro y luefvo lo fuí simplificando, al final al ver la grabación del 11/04 observé que el código que tenía era prácticamente igual al de la profesora pero ella había podido corregir algunos problemas que yo tenía al momento de aplicar las funciones.   Por otro lado al ver la grabación y hacer pruebas con mi código presenté el mismo error que la profesora, a veces el código misteriosamente arroja un error (IndexError: index 12 is out of bounds for axis 0 with size 12), pero al ejecutarlo por una segunda o tercera vez si se ejecuta correctamente.
+
+Reflexiones:
+La parte compleja de Python al igual que al manejar bbdd es la lógica detrás del código mas allá del manejo de la herramienta de Python o inclusive la sintaxis que ocupa.
