@@ -30,10 +30,13 @@ Modulo 4:
 
 El enfoque que seguí para realizar el proyecto fué entender lo que se estaba haciendo en los videos para poder replicarlo, además de tener que investigar la forma en que se especifica la ruta en donde se va a guardar el archivo txt ya que eso no se comentó en los videos. Debido a mi trabajo es muy difícil asistir a las sesiones en vivo de los jueves por lo que mi forma de abordar el proyecto fué depender de la información mostrada en los videos y el resto investigarlo en la web.
 
+Las liberías ocupadas y la razón de ellos fueron las siguientes:
+- requests: para hacer las peticiones a la API
+- matplotlib.pyplot y PIL/Image: para poder mostrar la imágen como si fuera un gráfico 
+- urllib.request/urlopen: para poder abrir la url que contiene la imágen 
 
 Reflexiones:
 Éste módulo fué un poco mas sencillo ya que a través de los videos pude obtener toda la información que requería para realizar el proyecto, lo complejo de éste proyecto fué integrar la escritura de datos en un archivo txt dentro de los ciclos for ya que de lo contrario la variable movimiento, habilidad o tipo sólo devolvía un valo en vez del listado de datos iterados; pero siguiend la lógica de las declaraicones fué mas sencillo de lo que normalmente fué Python en proyectos anteriores.
-
 
 
 
